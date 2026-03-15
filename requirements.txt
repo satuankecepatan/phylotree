@@ -1,0 +1,7 @@
+streamlit
+biopython
+numpy
+scipy
+toytree
+matplotlib
+plotly
